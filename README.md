@@ -4,7 +4,7 @@
 컴퍼넌트 및 props를 이용하여 사이트를 만들고 사이트를 구성합니다. 가상 돔(Virtual DOM), 컴포넌트 기반, 데이터 처리, JSX를 이용하여 작업하였습니다.
 
 ## 미리보기
-https://lively-heliotrope-6eb1de.netlify.app
+[https://lively-heliotrope-6eb1de.netlify.app](https://zino-react-webpage.netlify.app/)
 
 
 
